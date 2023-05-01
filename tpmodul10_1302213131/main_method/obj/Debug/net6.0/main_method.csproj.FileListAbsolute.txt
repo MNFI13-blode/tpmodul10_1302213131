@@ -1,0 +1,15 @@
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\bin\Debug\net6.0\main_method.exe
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\bin\Debug\net6.0\main_method.deps.json
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\bin\Debug\net6.0\main_method.runtimeconfig.json
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\bin\Debug\net6.0\main_method.dll
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\bin\Debug\net6.0\main_method.pdb
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\obj\Debug\net6.0\main_method.csproj.AssemblyReference.cache
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\obj\Debug\net6.0\main_method.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\obj\Debug\net6.0\main_method.AssemblyInfoInputs.cache
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\obj\Debug\net6.0\main_method.AssemblyInfo.cs
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\obj\Debug\net6.0\main_method.csproj.CoreCompileInputs.cache
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\obj\Debug\net6.0\main_method.dll
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\obj\Debug\net6.0\refint\main_method.dll
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\obj\Debug\net6.0\main_method.pdb
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\obj\Debug\net6.0\main_method.genruntimeconfig.cache
+D:\GitHub\tpmodul10_1302213131\tpmodul10_1302213131\main_method\obj\Debug\net6.0\ref\main_method.dll
